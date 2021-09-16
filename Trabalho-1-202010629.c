@@ -83,6 +83,8 @@ int main(){
     printf("Trabalho 1 de Cálculo Numérico e Programação Matemática\n");
     printf("Encontrando uma das raízes da equação cúbica de Vander-Der-Walls (ASR2-Ex.2)\n\n");
 
+    printf("Observação: os decimais devem ser separados por vírgula\n\n");
+
     /* Determinando o método a ser utilizado (Newton ou Secantes) */
 
     printf("Selecione 0 para Método de Newton e 1 para Método das Secantes\n");
