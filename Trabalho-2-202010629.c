@@ -6,7 +6,6 @@
 int main(){
 
     /* Configurando teclado brasileiro */
-
     setlocale(LC_ALL, "Portuguese");
 
     printf("Trabalho 2 de Cálculo Numérico e Programação Matemática\n");
