@@ -9,19 +9,22 @@ int main(){
 
     setlocale(LC_ALL, "Portuguese");
 
-    printf("Trabalho 2 de C·lculo NumÈrico e ProgramaÁ„o Matem·tica\n");
-    printf("Algoritmo para o MÈtodo de Lagrange\n\n");
+    printf("Trabalho 2 de C√°lculo Num√©rico e Programa√ß√£o Matem√°tica\n");
+    printf("Algoritmo para o M√©todo de Lagrange\n\n");
 
-    printf("ObservaÁ„o: os decimais devem ser separados por vÌrgula\n\n");
+    printf("Observa√ß√£o: os decimais devem ser separados por v√≠rgula\n\n");
 
+    // Defini√ß√£o das vari√°veis a serem utilizadas
     int l, k, n;
     double x[50], y[50], xin, yin, L;
 
-    printf("Informe o n˙mero total de pontos disponÌveis: ");
+    // Registrar a quantidade de pontos existentes
+    printf("Informe o n√∫mero total de pontos dispon√≠veis: ");
     scanf("%d", &n);
 
     printf("\n");
 
+    // Armazenar os valores de pontos dispon√≠veis
     for(int i = 0; i <= (n-1); i++){
         printf("Insira o valor de x[%d]: ", (i+1));
         scanf("%lf", &x[i]);
@@ -32,11 +35,13 @@ int main(){
         printf("\n");
     }
 
-    printf("Informe agora o valor de x para a interpolaÁ„o: ");
+    // Armazenar o valor a ser interpolado
+    printf("Informe agora o valor de x para a interpola√ß√£o: ");
     scanf("%lf", &xin);
 
     yin = 0;
 
+    // C√°lculo dos produtos para L
     for(k = 0; k <= (n-1); k++){
         L = 1;
         for(int i = 0; i <= (n-1); i++){
@@ -47,6 +52,7 @@ int main(){
         yin = L * y[k] + yin;
     }
 
+    // Informar o valor final
     printf("\nPara %lf, teremos portanto %lf\n", xin, yin);
 
     return 0;
