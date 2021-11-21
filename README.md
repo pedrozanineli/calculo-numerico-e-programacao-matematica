@@ -20,3 +20,5 @@ Quanto ao método das Secantes:
 É importante notar que a precisão do valor deve ser mensurada para que seja possível conhecer o momento de parada dos cálculos. Esse erro é calculado pela fórmula: e = |x <sub>k+1</sub> - x <sub>k</sub>| / |x <sub>k+1</sub>|.
 
 <strong>Trabalho 2 - interpolação de Lagrange</strong>
+
+<strong>Trabalho 3 - algoritmo de ajustamento: regressão linear</strong>
