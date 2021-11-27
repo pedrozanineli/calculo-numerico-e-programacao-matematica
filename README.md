@@ -22,3 +22,5 @@ Quanto ao método das Secantes:
 <strong>Trabalho 2 - interpolação de Lagrange</strong>
 
 <strong>Trabalho 3 - algoritmo de ajustamento: regressão linear</strong>
+
+<strong>Trabalho 4 - algoritmo de integração numérica: RTC e RSC</strong>
