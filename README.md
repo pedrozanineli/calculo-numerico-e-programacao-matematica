@@ -24,3 +24,5 @@ Quanto ao método das Secantes:
 <strong>Trabalho 3 - algoritmo de ajustamento: regressão linear</strong>
 
 <strong>Trabalho 4 - algoritmo de integração numérica: RTC e RSC</strong>
+
+<strong>Trabalho 5 - algoritmo de resolução de equações diferenciais ordinárias: método de Euler de primeira ordem e Runge-Kutta de quarta ordem</strong>
