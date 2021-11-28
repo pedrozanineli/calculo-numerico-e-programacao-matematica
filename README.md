@@ -25,6 +25,6 @@ Esse repositório refere-se aos trabalhos desenvolvidos para a matéria de Cálc
 
 <strong>Trabalho 3 - algoritmo de ajustamento: regressão linear</strong>
 
-<strong>Trabalho 4 - algoritmo de integração numérica: RTC e RSC</strong>
+<strong>Trabalho 4 - algoritmos de integração numérica: RTC e RSC</strong>
 
 <strong>Trabalho 5 - resolução de equações diferenciais ordinárias</strong>
