@@ -22,12 +22,12 @@ Esse repositório refere-se aos trabalhos desenvolvidos para a matéria de Cálc
 </details>
 
 <details><summary><b>Trabalho 2 - interpolação de Lagrange</b></summary>
-  
-  
 
 </details>
 
-<strong>Trabalho 3 - algoritmo de ajustamento: regressão linear</strong>
+<details><summary><b>Trabalho 3 - algoritmo de ajustamento: regressão linear</b></summary>
+
+</details>
 
 <strong>Trabalho 4 - algoritmos de integração numérica: RTC e RSC</strong>
 
