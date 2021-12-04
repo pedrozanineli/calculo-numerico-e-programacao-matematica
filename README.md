@@ -23,6 +23,12 @@ Esse repositório refere-se aos trabalhos desenvolvidos para a matéria de Cálc
 
 <details><summary><b>Trabalho 2 - interpolação de Lagrange</b></summary>
 
+  Técnica que tem como objetivo, a partir de coordenadas já conhecidas, procurar uma função que possa passar por todos esses pontos. A partir disso, é possível estimar valores e realizar previsões, como buscar o valor de y para x=25 no exemplo abaixo:
+  
+  | x | 5 | 10 | 20 | 25 | 30 |
+  | - | - | - | - | - | - |
+  | y | 160 | 1160 | 8710 | ? | 27660 |
+  
 </details>
 
 <details><summary><b>Trabalho 3 - algoritmo de ajustamento: regressão linear</b></summary>
