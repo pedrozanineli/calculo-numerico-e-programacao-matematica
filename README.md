@@ -35,6 +35,8 @@ Esse repositório refere-se aos trabalhos desenvolvidos para a matéria de Cálc
 
 </details>
 
-<strong>Trabalho 4 - algoritmos de integração numérica: RTC e RSC</strong>
+<details><summary><b>Trabalho 4 - algoritmos de integração numérica: RTC e RSC</b></summary>
+
+</details>
 
 <strong>Trabalho 5 - resolução de equações diferenciais ordinárias</strong>
