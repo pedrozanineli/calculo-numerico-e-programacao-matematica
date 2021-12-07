@@ -39,4 +39,6 @@ Esse repositório refere-se aos trabalhos desenvolvidos para a matéria de Cálc
 
 </details>
 
-<strong>Trabalho 5 - resolução de equações diferenciais ordinárias</strong>
+<details><summary><b>Trabalho 5 - resolução de equações diferenciais ordinárias</b></summary>
+
+</details>
